@@ -1,0 +1,12 @@
+<svg width="160" height="40" viewBox="0 0 160 40" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="40" height="40" rx="10" fill="#6C2BD9"/>
+  <path d="M12 14h16l-2 14H14l-2-14z" fill="white"/>
+  <path d="M16 14a4 4 0 0 1 8 0" stroke="white" stroke-width="2" fill="none"/>
+
+  <text x="52" y="27" font-size="22" font-weight="800" fill="white" font-family="Arial, Helvetica, sans-serif">
+    O
+  </text>
+  <text x="70" y="27" font-size="22" font-weight="800" fill="#FC8019" font-family="Arial, Helvetica, sans-serif">
+    -mart
+  </text>
+</svg>
